@@ -2,7 +2,7 @@
 
 3D printfiles for Facit Twist Terminal spare parts
 
-Facit_Flip_Switch:
+Facit_Flip_Switch (by @Knaldgas):
 
 	The plastic-arm which transfers pressure from the rotating
 	collar to the microswitch to detect orientation.
