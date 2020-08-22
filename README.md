@@ -1,2 +1,11 @@
 # FacitTwist-3D-print
-3D printfiles for Facit Twist spare parts
+
+3D printfiles for Facit Twist Terminal spare parts
+
+Facit_Flip_Switch:
+
+	The plastic-arm which transfers pressure from the rotating
+	collar to the microswitch to detect orientation.
+
+	See:
+		https://datamuseum.dk/wiki/Rational/R1000s400/Logbook#2020_08-20
